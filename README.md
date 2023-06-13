@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @craigsanders22
 - 👀 I’m interested in web deisgn, baseball, mountain biking, sddpgihdsgpidshfgipsdhgfdsiphfdsip
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS, and Flexbox
+- 💞️ I’m looking to collaborate on web design projects, small business websites, opportunities to learn more!
 - 📫 How to reach me ...
 
 <!---
